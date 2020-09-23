@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://cagatay:Cagatay01@contactkeeper.otqs3.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
